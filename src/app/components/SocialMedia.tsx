@@ -87,7 +87,7 @@ export function SocialMedia() {
         {/* Profile Picture Template */}
         <div className="bg-white rounded-lg p-8 mb-12">
           <h3 className="text-neutral-900 mb-6">Profile Picture</h3>
-          <div className="flex justify-center gap-8">
+          <div className="grid grid-cols-1 md:grid-cols-2 gap-8 max-w-2xl mx-auto">
             <div className="text-center">
               <p className="text-neutral-600 mb-4">Standard Size (400 × 400px)</p>
               <div className="w-48 h-48 rounded-full bg-white border-4 border-neutral-200 flex items-center justify-center mx-auto overflow-hidden">

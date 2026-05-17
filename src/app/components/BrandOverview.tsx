@@ -31,7 +31,7 @@ export function BrandOverview() {
           <h2 className="text-neutral-900 mb-4">Brand Overview</h2>
           <p className="text-neutral-700 max-w-3xl mx-auto mb-2" style={{ fontSize: '1.125rem' }}>
             Ubomi Beads is a non-profit social enterprise that transforms lives through sustainable craftsmanship. 
-            Ubomi Beads empower the community of Gugulethu by creating economic opportunities through the production 
+            Ubomi Beads empowers the community of Gugulethu by creating economic opportunities through the production 
             and international distribution of handcrafted jewelry made from recycled magazine paper.
           </p>
         </div>

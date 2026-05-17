@@ -51,7 +51,7 @@ export function ColorPalette() {
           <h2 className="text-neutral-900 mb-4">Brand Colors</h2>
           <p className="text-neutral-600 max-w-2xl mx-auto">
             The color palette draws inspiration from the South African flag and the vibrant 
-            spirit of Gugulethu. Each color represents a core value of our mission.
+            spirit of Gugulethu. Each color represents a core value of Ubomi Beads's mission.
           </p>
         </div>
 

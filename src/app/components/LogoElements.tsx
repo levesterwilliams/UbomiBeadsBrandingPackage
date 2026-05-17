@@ -38,9 +38,9 @@ export function LogoElements() {
               <p className="text-neutral-600">(Geo Sans Light)</p>
             </div>
             <p className="text-neutral-700">
-              The clean, modern typeface communicates professionalism and accessibility. 
+              The clean, modern typeface communicates professionalism and elegance. 
               The distinctive "O" features a golden accent that echoes the warmth and 
-              optimism of our mission.
+              optimism of Ubomi Beads's mission.
             </p>
           </div>
 
@@ -50,7 +50,7 @@ export function LogoElements() {
               <p className="text-neutral-600">(Avenir Book)</p>
             </div>
             <p className="text-neutral-700">
-              "Empowerment & Style" captures our dual commitment to creating economic 
+              "Empowerment & Style" captures Ubomi Beads's dual commitment to creating economic 
               opportunities while producing beautiful, fashionable jewelry that makes a difference.
             </p>
           </div>

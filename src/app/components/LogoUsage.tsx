@@ -40,7 +40,7 @@ export function LogoUsage() {
               <img 
                 src={logoWithoutTagline} 
                 alt="Ubomi Beads Logo without tagline" 
-                style={{ maxWidth: '400px', width: '400%' }}
+                style={{ maxWidth: '400px', width: '100%' }}
               />
             </div>
             <p className="text-neutral-600 mt-4 text-center">Use when space is limited</p>

@@ -19,19 +19,7 @@ export default function App() {
       <LogoUsage />
       <BrandApplications />
       <SocialMedia />
-      <BrandStory />
-      
-      {/* Footer */}
-      <footer className="bg-neutral-900 text-white py-12 px-6">
-        <div className="max-w-6xl mx-auto text-center">
-          <p className="text-neutral-400">
-            © 2025 Ubomi Beads LLC. All rights reserved.
-          </p>
-          <p className="text-neutral-500 mt-2">
-            Empowering Gugulethu, Cape Town, South Africa
-          </p>
-        </div>
-      </footer>
+      <BrandStory />     
     </div>
   );
 }
